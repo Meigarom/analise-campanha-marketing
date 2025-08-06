@@ -111,16 +111,25 @@ Critério 2: Insights Acionável
 
 ## Insights da Análise
 ### Visão Geral da Campanha de Marketing
+![Visão Geral](img/visao-geral.png)
 
-### Visão Cliente
+### Visão Clientes
+![Visão Cliente](img/visao-clientes.png)
 
 ### Conclusão: Visão Geral
+![Visão Geral](img/visao-geral.png)
 
 ### Conclusão: Visão Produto
+![Visão Produto](img/visao-produto.png)
 
 
 ## Resultados
-<span style="font-size: 16px;">Conclusão: O melhor segmento da campanha foram os clientes casado com idade entre 41 e 50 anos de idade, sem filhos em casa e com graduação completa.</span><div><span style="font-size: 16px;"><br></span></div><div><span style="font-size: 16px;">O pior segmento de clientes foram os viúvos de todas as faixas etárias, clientes abaixo dos 30 anos de todos os estados civis com 2 ou mais crianças em casa e somente ensino fundamental.</span></div><div><span style="font-size: 16px;"><br></span></div><div><span style="font-size: 16px;">Para maximizar o lucro da próxima campanha, o marketing precisa direcionar suas ações ao melhor segmento apresentado e reduzir o investimentos nos outros segmentos, especialmente o mencionado.</span></div>
+Conclusão: O melhor segmento da campanha foram os clientes casado com idade entre 41 e 50 anos de idade, sem filhos em casa e com graduação completa.
+
+O pior segmento de clientes foram os viúvos de todas as faixas etárias, clientes abaixo dos 30 anos de todos os estados civis com 2 ou mais crianças em casa e somente ensino fundamental.
+
+Para maximizar o lucro da próxima campanha, o marketing precisa direcionar suas ações ao melhor segmento apresentado e reduzir o investimentos nos outros segmentos, especialmente o mencionado.
 
 
 ## Próximos Passos
+1. Explorar 
