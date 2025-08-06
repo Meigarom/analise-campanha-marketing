@@ -95,6 +95,8 @@ Critério 2: Insights Acionável
 
 ### Passo 7: Priorização das Hipóteses Analíticas
 #### Hipótese 1: Clientes abaixo dos 30 anos gastam mais com produtos do Ifood do que as outras faixas etárias.
+![alt text](img/hipotese 1.png )
+
 #### Hipótese 2: Clientes solteiros gastam menos do que os outros segmentos de clientes.
 #### Hipótese 3: Clientes solteiros abaixo dos 30 anos gastam mais com produtos do Ifood do que as outras faixas etárias
 #### Hipótese 4: Clientes com crianças em casa compra mais pelo Ifood.
