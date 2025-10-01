@@ -103,9 +103,47 @@ Critério 1: Dados disponíveis
 Critério 2: Insights Acionável
 
 ## Passo 7: Priorização das Hipóteses Analíticas
+Hipótese 1: Clientes abaixo dos 30 anos gastam mais com produtos do Ifood do que as outras faixas etárias.
+![Hipótese 1](img/hipotese1.png)
+
+Hipótese 2: Clientes solteiros gastam menos do que os outros segmentos de clientes.
+![Hipótese 2](img/hipotese2.png)
+
+Hipótese 3: Clientes solteiros abaixo dos 30 anos gastam mais com produtos do Ifood do que as outras faixas etárias.
+![Hipótese 3](img/hipotese3.png)
+
+Hipótese 4: Clientes com crianças em casa compra mais pelo Ifood.
+![Hipótese 4](img/hipotese4.png)
+
+Hipótese 5: Clientes que compram mais carne também compram mais vinho.
+![Hipótese 5](img/hipotese5.png)
 
 # Insights da análise
+### Visão Geral da Campanha de Marketing
+![Visão Geral](img/visao-geral.png)
+
+### Visão Clientes
+![Visão Cliente](img/visao-clientes.png)
+
+### Conclusão: Visão Resultado Cliente
+![Visão Geral](img/visao-clientes-completa.png)
+
+### Conclusão: Visão Produto
+![Visão Produto](img/visao-produto.png)
 
 # Resultados
+Conclusão: O melhor segmento da campanha foram os clientes casado com idade entre 41 e 50 anos de idade, sem filhos em casa e com graduação completa.
+
+O pior segmento de clientes foram os viúvos de todas as faixas etárias, clientes abaixo dos 30 anos de todos os estados civis com 2 ou mais crianças em casa e somente ensino fundamental.
+
+Para maximizar o lucro da próxima campanha, o marketing precisa direcionar suas ações ao melhor segmento apresentado e reduzir o investimentos nos outros segmentos, especialmente o mencionado.
 
 ## Visualize a Análise Completa
+Acess o Link:
+https://lookerstudio.google.com/reporting/9536ef1a-3c05-4347-b335-ae914e3c92d5
+
+# Próximos passos
+1. Explorar mais características dos clientes
+2. Automatizar a coleta e a análise para acompanhamento.
+3. Agrupar os clientes em grupos de maior e menor faturamento para entender se há similiridades ou não.
+4. Montar um dashboard de acompanhamento das métricas das futuras campanhas de marketing
